@@ -74,8 +74,3 @@ Estagiário de Gestão de Produtos na **Real Grana**, responsável pelo desenvol
 🌎 Português · Inglês (profissional) · Espanhol (profissional)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pguilhermek&show_icons=true&hide_border=true&theme=default&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pguilhermek&layout=compact&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" height="150"/>
-</p>
